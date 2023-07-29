@@ -1,1 +1,1 @@
-# pricin-gtags
+# pricing-tags
